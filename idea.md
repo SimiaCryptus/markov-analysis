@@ -19,7 +19,7 @@ static file server or opened via a local dev server.
 
 ### 2.1 Goals
 
-- Pure static delivery: `index.html` + ES6 modules + CSS. No server-side code.
+- Pure static delivery: `paper.html` + ES6 modules + CSS. No server-side code.
 - Handle reasonably large corpora (~1 MB of text) without freezing the UI.
 - Build forward and backward (bidirectional) Markov models.
 - Score arbitrary test text against the models per character/token.
