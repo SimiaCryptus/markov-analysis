@@ -1,12 +1,19 @@
 {
-  "id": "markov-analysis",
-  "title": "Bidirectional Markov Text Analyzer",
-  "category": "lab",
-  "href": "index.html",
-  "readme": "README.md",
-  "order": 10,
-  "section": "featured",
-  "icon": "MA",
-  "launchLabel": "Open the Bidirectional Markov Text Analyzer lab",
-  "pitch": "Build a language model from your own corpus, then watch another text light up token-by-token by how <em>surprising</em> it is. Forward and backward order-n Markov models are merged into a single surprise heatmap, with click-to-replace predictions, add-k smoothing, backoff, and live perplexity."
+    "id": "markov-analysis",
+    "title": "Bidirectional Markov Text Analyzer",
+    "description": "Build a language model from your own corpus, then watch another text light up token-by-token by how surprising it is. Forward and backward order-n Markov models are merged into a single surprise heatmap, with click-to-replace predictions, add-k smoothing, backoff, and live perplexity.",
+    "tags": [
+        "markov",
+        "n-gram",
+        "text-analysis",
+        "language-model",
+        "perplexity",
+        "heatmap",
+        "visualization",
+        "client-side"
+    ],
+    "category": "labs",
+    "href": "index.html",
+    "readme": "README.md",
+    "order": 10
 }
