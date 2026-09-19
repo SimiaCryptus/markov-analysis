@@ -5,7 +5,7 @@
     "category": "lab",
     "href": "index.html",
     "readme": "README.md",
-    "order": 10,
+    "order": 13,
     "section": "featured",
     "icon": "MA",
     "launchLabel": "Open the Bidirectional Markov Text Analyzer lab"
